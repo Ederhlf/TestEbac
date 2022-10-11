@@ -1,6 +1,6 @@
 # TestEbac
 # Olá, me chamo Eder Henrique ! 
-## Bem vindo ao meu perfil <i class="devicon-github-original-wordmark"></i>  👋
+## Bem vindo ao meu perfil  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" />  👋
 
 
 - 🌱 Atualmente estou aprendendo <i class="devicon-swift-plain-wordmark colored"></i>
@@ -10,9 +10,12 @@ Conhencendo e me aprofundo em GitHub e me preparar para o mercador de trabalho
 
           
           
-   <i class="devicon-sourcetree-original"><width="40" height="40"/i> 
-   <i class="devicon-figma-plain colored"><width="40" height="40"/i>
-   <i class="devicon-swift-plain"><width="40" height="40"/i>
-   <i class="devicon-git-plain"><width="40" height="40"/i>
-                           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="40" height="40" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+                               
           
